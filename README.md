@@ -3,7 +3,7 @@
 > 一个单文件网页应用：记录任务进度、自动生成日报周报、规划工作与学习、管理长期学习项目。
 > 不需要安装、不需要注册、不联网也能用，所有数据只保存在你自己的浏览器里。
 
-**在线使用**：https://USERNAME_PLACEHOLDER.github.io/REPO_PLACEHOLDER/
+**在线使用**：https://BenkMing.github.io/workbench/
 
 ## 界面预览
 
